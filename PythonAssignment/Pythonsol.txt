@@ -1,10 +1,1 @@
-Q1: pavan
-ans=reddy
-
-<<<<<<< HEAD
-Q2.kumar
-ans=jfyudbfjdnuvn
-=======
-Q2.
->>>>>>> d1949b3c1d045482505d70b7fcb97903e13be9fc
- Q3. dnhsgftybd snvbch
+Hi pavan here N pavan kumar reddy
